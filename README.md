@@ -15,10 +15,10 @@
 - **敌人 AI 系统**：状态机 + 视野检测算法 [...]
 
 ## 🖼️ 游戏截图
-![游戏截图1](/Picture/Begin.png)
-![游戏截图2](/Picture/SettingPanel.png)
-![游戏截图3](/Picture/Game.png)
-![游戏截图4](/Picture/RankPanel.png)
+![游戏截图1](/Pictures/Begin.png)
+![游戏截图2](/Pictures/SettingPanel.png)
+![游戏截图3](/Pictures/Game.png)
+![游戏截图4](/Pictures/RankPanel.png)
 
 ## 📚 代码结构
 `/Assets/Scripts/`
