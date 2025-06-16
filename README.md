@@ -5,6 +5,8 @@
 [点击进入 WebGL 版本](https://ShenQing8.github.io/TankWar/) 
 
 ## 📦 本地运行
+-**第一种方式：下载release版本，直接运行**
+-**第二种方式：克隆仓库，在Unity中运行**
 1. 克隆仓库：`git clone https://github.com/ShenQing8/TankWar.git`
 2. 用 Unity **2022.3.24f1c1**或之后版本 打开项目
 3. 运行 `Assets/Scenes/BeginScene.unity`
